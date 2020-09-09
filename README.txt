@@ -1,2 +1,1 @@
-# Minecraft-Project-Unknow
-For Minecraft
+Is For  Java Only
